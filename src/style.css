@@ -1,20 +1,19 @@
 .body{
     background-color: blue;
-    margin: 0;
-    width: 100vw;
+    font-size: 20px;
+    color: black;
+    display: flex;
+
 }
 
 
 .top-nav{
     background-color: #04dabe;
-    margin:auto;
     display: flex;
     justify-content: space-evenly;
 }
 
 .general-pokemon {
-    width: 80%;
-    margin: auto;
     display: flex;
     flex-wrap:wrap;
     justify-content: center;

@@ -28,9 +28,10 @@ function allPokemon (){
 };
 
 
-// function orderAlphabetic(){
-//     getPokemon().map((monster['name']) =>
-//     let saveName = 
 
-    
-// }
+
+
+
+
+
+

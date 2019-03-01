@@ -7,11 +7,18 @@
   </head>
   <body>
     <nav class="top-nav">
-      <h1>POKÉMON</h1>
-      <select >
-        <!-- <option>peso</option>
-        <option>tamanho</option>
-        <option>candy</option> -->
+      <header class="title">POKÉMON</header>
+      <select class="names-list">
+        <option id="name-select" selected>Ordem</option>
+        <option id="orderAz" >Ordem A a Z</option>
+        <option id="orderZa" >Ordem Z a A</option>
+      </select>
+      <select class="eggs-kms">
+        <option id="eggs-select" selected>Selecione Km/ovos</option>
+        <option id="eggs-0km" >0 km</option>
+        <option id="eggs-2km" >2 km</option>
+        <option id="eggs-5km">5 km</option>
+        <option id="eggs-10km">10 km</option>
       </select>
     </nav>
     <main>
@@ -19,9 +26,6 @@
         <div id="show-pokemon" class="general-pokemon" ></div>
       </section>
     </main>
-
-    
-
     <script src="./data/pokemon/pokemon.js"></script>
     <!-- <script src="data/pokemon/pokemon.js"></script> -->
     <script src="main.js"></script>
