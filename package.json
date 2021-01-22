@@ -1,0 +1,19 @@
+{
+  "name": "data-lovers",
+  "version": "1.0.0",
+  "description": "Projeto do Bootcamp da Laboratoria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcieleadivincula/data-lovers.git"
+  },
+  "author": "Marciele Adivincula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcieleadivincula/data-lovers/issues"
+  },
+  "homepage": "https://github.com/marcieleadivincula/data-lovers#readme"
+}
